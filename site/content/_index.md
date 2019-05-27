@@ -1,6 +1,6 @@
 ---
 title: "Sevlution"
-subtitle: Stop living below your potential.<br>
+subtitle: Stop living below your potentiadl.<br>
 Build the life that you have always wanted. <br>
 Learn from the best; become the best.
 image: /img/home-jumbotron.jpg
