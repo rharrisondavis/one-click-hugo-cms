@@ -1,6 +1,8 @@
 ---
 title: "Sevlution"
-subtitle: Stop living below your potential. Build the life that you have always wanted. Learn from the best; become the best.
+subtitle: Stop living below your potential.<br>
+Build the life that you have always wanted. <br>
+Learn from the best; become the best.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
